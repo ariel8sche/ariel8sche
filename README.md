@@ -6,9 +6,12 @@
 
 ###
 
-<h2 aling="left">About me</h2>
+<h2 aling="left">👨‍💻 About me</h2>
 
-<p align="left">Estudiante de la carrera de Ciencias de la Computación con habilidades en diseño de algoritmos eficientes, estructuras de datos y análisis de complejidad. Capacidad para trabajar en equipo e individualmente utilizando metodologías ágiles como Scrum. Destacado por la responsabilidad, adaptabilidad y resolución de conflictos.</p>
+<p align="left">🏠 I’m 21 years old and live in CABA, Argentina.</p>
+<p align="left">👨‍🎓 I’m a Computer Science student at UBA with skills in designing efficient algorithms, data structures, and complexity analysis.</p>
+<p aling="left">📚 I’m currently learning: C# .NET.</p>
+<p aling="left">📫 How to reach me: Drop me an email at ariel8sche@gmail.com.</p>
 
 ###
 
@@ -30,3 +33,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
+###
+<h2>GitHub Stats</h2>
+
+<p aling="center"><img src="https://github-readme-stats.vercel.app/api?username=ariel8sche&show_icons=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariel8sche&layout=compact&langs_count=8" /></p>
