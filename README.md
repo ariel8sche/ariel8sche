@@ -1,6 +1,12 @@
 <h1 align="center">Hi , I'm Ariel Schenone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+  <a href="https://github.com/ariel8sche/ComputerScience"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student&center=true&width=500&height=50"></a>
+</p>
+
 ###
+
+<h2 aling="left">About me</h2>
 
 <p align="left">Estudiante de la carrera de Ciencias de la Computación con habilidades en diseño de algoritmos eficientes, estructuras de datos y análisis de complejidad. Capacidad para trabajar en equipo e individualmente utilizando metodologías ágiles como Scrum. Destacado por la responsabilidad, adaptabilidad y resolución de conflictos.</p>
 
