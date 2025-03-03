@@ -37,4 +37,4 @@
 ###
 <h2>GitHub Stats</h2>
 
-<p aling="center"><img src="https://github-readme-stats.vercel.app/api?username=ariel8sche&show_icons=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariel8sche&layout=compact&langs_count=8" /></p>
+![ariel8sche's Stats](https://github-readme-stats.vercel.app/api?username=ariel8sche&theme=default&show_icons=true&hide_border=true&count_private=false)![ariel8sche's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariel8sche&theme=default&hide_border=true)![ariel8sche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariel8sche&theme=default&show_icons=true&hide_border=true&layout=compact&langs_count=8)
