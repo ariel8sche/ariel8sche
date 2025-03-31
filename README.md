@@ -8,7 +8,7 @@
 
 <h2 aling="left">👨‍💻 About me</h2>
 
-<p align="left">🏠 I’m 21 years old and live in CABA, Argentina.</p>
+<p align="left">🏠 I’m 22 years old and live in CABA, Argentina.</p>
 <p align="left">👨‍🎓 I’m a Computer Science student at UBA with skills in designing efficient algorithms, data structures, and complexity analysis.</p>
 <p aling="left">📚 I’m currently learning: C# .NET.</p>
 <p aling="left">📫 How to reach me: Drop me an email at ariel8sche@gmail.com.</p>
