@@ -45,4 +45,4 @@
 
 ![ariel8sche's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariel8sche&theme=vue-dark&hide_border=true)
 
-![ariel8sche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariel8sche&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![ariel8sche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariel8sche&theme=vue-dark&show_icons=true&hide_border=true)
