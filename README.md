@@ -75,8 +75,15 @@
 ###
 <h2>GitHub Stats</h2>
 
-![ariel8sche's Stats](https://github-readme-stats.vercel.app/api?username=ariel8sche&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ariel8sche&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  </p>
 
-![ariel8sche's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariel8sche&theme=vue-dark&hide_border=true)
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariel8sche&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  </p>
 
-![ariel8sche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariel8sche&theme=vue-dark&show_icons=true&hide_border=true)
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/ariel8sche/ariel8sche/output/snake.svg" alt="Snake animation" />
+  </p>
+
