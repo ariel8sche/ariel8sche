@@ -12,7 +12,7 @@
   
   <p align="left">👨‍🎓 Currently studying Computer Science at the <a href="https://www.uba.ar/">University of Buenos Aires (UBA)</a>, focused on backend development, software architecture, algorithms, and data structures.</p>
   
-  <p align="left">🚀 I develop personal projects using C#, .NET 8, ASP.NET Core MVC, Entity Framework Core, Python, and SQLite.</p>
+  <p align="left">🚀 I develop personal projects using C#, .NET 8, ASP.NET Core MVC, Entity Framework Core, Python, and Microsoft SQL Server.</p>
   
   <p align="left">🧠 Interested in backend development, databases, software engineering, and low-level programming.</p>
   
