@@ -70,12 +70,12 @@
 <br>
 
 📚 <strong>University Projects</strong>  
-- UBA coursework, assignments, and practical projects related to algorithms, functional programming, low-level programming, and software development.
+- UBA coursework, assignments, and practical projects related to algorithms, functional programming, low-level programming, and software development. https://github.com/ariel8sche/ComputerScience
 
 <br>
 
 🧪 <strong>Faculty Assignments & TPs</strong>  
-- Problem solving, algorithm implementation, data structures, x86-64 Assembly, Haskell, and Prolog projects.
+- Problem solving, algorithm implementation, data structures, x86-64 Assembly, Haskell, and Prolog projects. https://github.com/ariel8sche/TPs
 
 <br>
 
