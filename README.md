@@ -43,7 +43,7 @@
 
 🔭 <strong>I’m currently working on</strong>  
 - 🛠️ <strong>ServiceTracker</strong> — ASP.NET Core MVC application for managing technical services, invoices, authentication, and file uploads.  
-- 📝 <strong>BlogCore</strong> — Blog platform built with ASP.NET Core MVC and Entity Framework Core.
+- 📝 <strong>BlogCore</strong> — Blog platform built with ASP.NET Core MVC and Entity Framework Core. https://github.com/ariel8sche/BlogCore_NET8# 
 
 <br>
 
