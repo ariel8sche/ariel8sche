@@ -42,7 +42,7 @@
 <h2 align="left">🚀 Current Projects</h2>
 
 🔭 <strong>I’m currently working on</strong>  
-- 🛠️ <strong>ServiceTracker</strong> — ASP.NET Core MVC application for managing technical services, invoices, authentication, and file uploads.  
+- 🛠️ <strong>ServiceTracker</strong> — ASP.NET Core MVC application for managing technical services, invoices, authentication, and file uploads. https://github.com/ariel8sche/service-tracker
 - 📝 <strong>BlogCore</strong> — Blog platform built with ASP.NET Core MVC and Entity Framework Core. https://github.com/ariel8sche/BlogCore_NET8# 
 
 <br>
