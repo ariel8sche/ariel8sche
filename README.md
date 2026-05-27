@@ -61,7 +61,7 @@
   <img width="14" />
 
   <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="sqlite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="sqlserver logo" />
   <img width="14" />
 
   <!-- Tools -->
