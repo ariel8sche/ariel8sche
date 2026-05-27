@@ -1,26 +1,88 @@
-<h1 align="center">Hi , I'm Ariel Schenone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Ariel Schenone
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <p align="center">
-  <a href="https://github.com/ariel8sche/ComputerScience"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student&center=true&width=500&height=50"></a>
+  <a href="https://github.com/ariel8sche">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Backend+.NET+Developer;ASP.NET+Core+MVC+Enthusiast&center=true&width=550&height=50">
+  </a>
 </p>
 
-###
+---
 
 <h2 align="left">👨‍💻 About Me</h2>
 
-  <p align="left">🏠 I'm a Computer Science student based in CABA, Argentina.</p>
-  
-  <p align="left">👨‍🎓 Currently studying Computer Science at the <a href="https://www.uba.ar/">University of Buenos Aires (UBA)</a>, focused on backend development, software architecture, algorithms, and data structures.</p>
-  
-  <p align="left">🚀 I develop personal projects using C#, .NET 8, ASP.NET Core MVC, Entity Framework Core, Python, and Microsoft SQL Server.</p>
-  
-  <p align="left">🧠 Interested in backend development, databases, software engineering, and low-level programming.</p>
-  
-  <p align="left">📚 Currently learning and improving my skills in the .NET ecosystem and backend application development.</p>
-  
-  <p align="left">📫 Contact: ariel8sche@gmail.com</p>
+<p align="left">
+🏠 I'm a Computer Science student based in CABA, Argentina.
+</p>
 
-###
+<p align="left">
+👨‍🎓 Currently studying Computer Science at the <a href="https://www.uba.ar/">University of Buenos Aires (UBA)</a>, focused on backend development, software architecture, algorithms, and data structures.
+</p>
+
+<p align="left">
+🚀 I develop personal projects using C#, .NET 8, ASP.NET Core MVC, Entity Framework Core, Python, and Microsoft SQL Server.
+</p>
+
+<p align="left">
+🧠 Interested in backend development, databases, software engineering, and low-level programming.
+</p>
+
+<p align="left">
+📚 Currently learning and improving my skills in the .NET ecosystem and backend application development.
+</p>
+
+<p align="left">
+📫 Contact: <strong>ariel8sche@gmail.com</strong>
+</p>
+
+---
+
+<h2 align="left">🚀 Current Projects</h2>
+
+🔭 <strong>I’m currently working on</strong>  
+- 🛠️ <strong>ServiceTracker</strong> — ASP.NET Core MVC application for managing technical services, invoices, authentication, and file uploads.  
+- 📝 <strong>BlogCore</strong> — Blog platform built with ASP.NET Core MVC and Entity Framework Core.
+
+<br>
+
+🌱 <strong>I’m currently learning</strong>  
+- .NET ecosystem and backend development  
+- Software architecture and design patterns  
+- Database design and authentication systems
+
+<br>
+
+👯 <strong>I’m looking to collaborate on</strong>  
+- Backend and web development projects using C# and .NET  
+- Open source projects related to software engineering and automation
+
+<br>
+
+💬 <strong>Ask me about</strong>  
+- C# and .NET  
+- ASP.NET Core MVC  
+- Entity Framework Core  
+- Algorithms and data structures  
+- Backend development
+
+<br>
+
+📚 <strong>University Projects</strong>  
+- UBA coursework, assignments, and practical projects related to algorithms, functional programming, low-level programming, and software development.
+
+<br>
+
+🧪 <strong>Faculty Assignments & TPs</strong>  
+- Problem solving, algorithm implementation, data structures, x86-64 Assembly, Haskell, and Prolog projects.
+
+<br>
+
+👨‍💻 <strong>All of my projects are available at</strong>  
+- <a href="https://github.com/ariel8sche">github.com/ariel8sche</a>
+
+---
 
 <h2 align="left">
   💻 Tech Stack
@@ -72,18 +134,24 @@
 
 </div>
 
-###
-<h2>GitHub Stats</h2>
+---
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ariel8sche&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  </p>
+<h2 align="left">📊 GitHub Stats</h2>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariel8sche&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-  </p>
+<div align="center">
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/ariel8sche/ariel8sche/output/snake.svg" alt="Snake animation" />
-  </p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ariel8sche&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariel8sche&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+</div>
+
+---
+
+<h2 align="left">🔥 GitHub Streak</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ariel8sche&theme=tokyonight&hide_border=true"/>
+
+</div>
